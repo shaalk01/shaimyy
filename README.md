@@ -10,3 +10,5 @@ When I turned 19, I was a **WORLD CHAMPION**, I couldn't believe it, it was a dr
 Hej Shaimaa
 
 Hej Jamil, hvad laver du
+
+Jeg sidder og laver red bull og george bush
