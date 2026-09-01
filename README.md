@@ -13,3 +13,5 @@ Hej Jamil, hvad laver du
 
 Jeg sidder og laver red bull og george bush
 fedt
+
+Fuck du tør, skal jeg klask en glas vand i dit hovede?
