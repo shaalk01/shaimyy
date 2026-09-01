@@ -8,3 +8,5 @@ When i turned 9 years old, I signed up in a fight club, that was my first time e
 When I turned 19, I was a **WORLD CHAMPION**, I couldn't believe it, it was a dream that came true
 
 Hej Shaimaa
+
+Hej Jamil, hvad laver du
