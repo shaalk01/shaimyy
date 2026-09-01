@@ -17,3 +17,5 @@ fedt
 Fuck du tør, skal jeg klask en glas vand i dit hovede?
 
 shhhhhhhhh din *****
+
+ejjjjj undskyld shaimaa, ejjj det sker sku da krafteæde me' ikke igen du
