@@ -28,7 +28,7 @@ Han kunne gå gennem byen og tænke:
 
 -   Hvorfor køber folk lige præcis dette produkt?
 -   Hvor meget tjener butikken på det?
--   Hvorfor vælger kunderne ét brand frem for et andet?
+-   Hvorfor vælger kunderne et brand frem for et andet?
 -   Hvordan kan man få folk til at opdage et nyt produkt?
 
 En dag fik han en idé.
@@ -36,14 +36,14 @@ En dag fik han en idé.
 Han ville starte en webshop, hvor han solgte miljøvenlige drikkeflasker
 til unge.
 
-Idéen virkede simpel.
+Ideen virkede simpel.
 
-Han lavede et logo, oprettede en Instagram-profil og bestilte sine
+Han lavede et logo, oprettede en Instagram profil og bestilte sine
 første 100 flasker.
 
 Han var sikker på, at de ville blive revet væk.
 
-Men efter én måned havde han kun solgt **7 flasker**.
+Men efter en måned havde han kun solgt **7 flasker**.
 
 Han kiggede på lageret.
 
@@ -65,7 +65,7 @@ Han begyndte også at sammenligne sig med andre.
 
 På TikTok så han unge mennesker, der viste deres virksomheder frem.
 
-**"Jeg omsatte for 100.000 kr. på én måned."**
+**"Jeg omsatte for 100.000 kr. på en måned."**
 
 **"Sådan startede jeg min virksomhed som 18-årig."**
 
@@ -83,10 +83,10 @@ Han lavede en lille undersøgelse blandt 50 unge.
 Han spurgte dem:
 
 1.  Hvad får dig til at købe en drikkeflaske?
-2.  Hvor meget vil du betale?
-3.  Hvad synes du om mit design?
-4.  Hvor ville du forvente at finde produktet?
-5.  Hvad mangler der?
+1.  Hvor meget vil du betale?
+1.  Hvad synes du om mit design?
+1.  Hvor ville du forvente at finde produktet?
+1.  Hvad mangler der?
 
 Svarene overraskede ham.
 
@@ -150,12 +150,12 @@ Så 200.000.
 
 Pludselig begyndte ordrerne at komme.
 
-5.  
-6.  
-7.  
-8.  
+1.  
+1.  
+1.  
+1.  
 
-På én weekend solgte han næsten hele sit lager.
+På en weekend solgte han næsten hele sit lager.
 
 Jonas sad foran sin computer og kiggede på tallene.
 
@@ -165,7 +165,7 @@ Men det vigtigste var ikke pengene.
 
 Han havde lært noget meget vigtigere:
 
-> **En god idé er ikke nødvendigvis en god forretning.**
+> **En god ide er ikke nødvendigvis en god forretning.**
 
 En god forretning opstår, når man finder et problem, forstår sine kunder
 og skaber noget, de faktisk vil betale for.
@@ -201,12 +201,12 @@ Og derefter:
 
 ## Det interessante spørgsmål
 
-Så hvis jeg skulle stille jer ét spørgsmål efter historien, ville det
+Så hvis jeg skulle stille jer et spørgsmål efter historien, ville det
 være:
 
-**Hvad er vigtigst -- en god idé eller evnen til at tilpasse sig?**
+**Hvad er vigtigst -- en god ide eller evnen til at tilpasse sig?**
 
-For Jonas havde ikke den perfekte idé fra starten.
+For Jonas havde ikke den perfekte ide fra starten.
 
 Han havde heller ikke masser af penge.
 
@@ -261,3 +261,5 @@ Og måske er det netop pointen:
 
 > **Man behøver ikke have alle svarene, før man begynder. Man skal bare
 > være villig til at finde dem.**
+
+> ***Lavet af Jamil og Shaimaa***
