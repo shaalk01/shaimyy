@@ -12,3 +12,4 @@ Hej Shaimaa
 Hej Jamil, hvad laver du
 
 Jeg sidder og laver red bull og george bush
+fedt
